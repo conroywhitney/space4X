@@ -24,3 +24,34 @@ Designed to scale from 1 to N computers in a cluster on EC2 or any other grid/cl
 
 ### Agent-Based
 Instead of having a "god" commanding the program, each patch, body, object, etc. is autonomous and reacts to the outside world based on stimuli. This goal is inspired by [Turtles, Termites, and Traffic Jams](http://www.amazon.com/Turtles-Termites-Traffic-Jams-Explorations/dp/0262680939) which uses [StarLogo](http://en.wikipedia.org/wiki/StarLogo) to show how complex macro-patterns can arise from many simple micro-decisions.
+
+## 4X Game Mecahnics
+Addressing the same sections of [Freeciv's thoughts on 4X design](http://freeciv.wikia.com/wiki/4x_Design)...
+
+
+### Linear Growth
+Everything must take longer and cost more.
+
+Weapons represent a diminishing cost-benefit ratio:
+* Smaller numbers of advanced weapons should be more desirable than vast numbers of inferior weapons
+* Advanced weapons become easier to destroy to ensure correct risk-reward ratio
+
+Expansion should represent diminishing returns:
+* Focus should be on Exploitation over Expansion
+* Farther-away bodies' discovery, benefit, and defense cycles should be longer than closer ones
+* Defending multiple fronts should be harder than defending fewer; therefore fewer high-benefit bodies should be preferable to many medium-benefit
+
+Technology research should represent exponential power:
+* Advanced research requires a minimum level of all fields to ensure that tech trees are trees, not lines
+* Advanced Weapons and Expansion rely on technologies from all different fields
+
+### Challenge
+
+### Usefulness
+
+### Counter Strategy
+
+Very important decisions must be made during the first 1/3 of the game, such as:
+* Specialty - agression, defense, stealth, technology, etc.
+
+### End
