@@ -4,6 +4,10 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
+gem 'jquery-rails'
+
+# database craps
+gem 'sqlite3'
 
 group :development do
   gem 'debugger'
